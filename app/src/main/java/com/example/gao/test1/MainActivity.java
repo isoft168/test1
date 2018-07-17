@@ -20,6 +20,9 @@ public class MainActivity extends AppCompatActivity {
         System.out.print("test1");
 
 
+        System.out.print("test2");
+
+
 
     }
 }
