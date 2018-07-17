@@ -26,6 +26,9 @@ public class MainActivity extends AppCompatActivity {
         System.out.print("test3");
 
 
+        System.out.print("test4");//added home
+
+
 
     }
 }
